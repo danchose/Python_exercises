@@ -1,0 +1,1 @@
+print("{weight} kg is the weight of the {animal}".format(animal="newt",weight=0.2))
